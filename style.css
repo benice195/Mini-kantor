@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Mukta+Vaani');
+
+body {
+	width: 900px;
+	background-color: #232323;
+	color: white;
+	font-family: 'Mukta Vaani', sans-serif;
+	text-align: center;
+	margin: 0 auto;
+}
+#titleWeb {
+	font-size: 42px;
+	text-transform: uppercase;
+	font-weiht: bold;
+	width: 100%;
+}
+.logo {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	
+}
+#tablicaWalut {
+	font-size: 24px;
+}
+#login, #password {
+	font-size: 20px;
+}
+#submit {
+	display: block;
+    margin: 0 auto;
+    font-size: 20px;
+    margin-top: 20px;	
+}
+#walutaPn1, #walutaPn2 {
+	text-align: center;
+}
+#walutaPn1, #przeslijPl1, #walutaPn2, #przeslijPl2, #przeslijPl3 {
+	font-size: 20px;
+	
+}
+input {
+	margin-left: 10px;
+}
+#kursWalut, #tablicaWalut {
+	float: left;
+}
+#kursWalut {
+	padding: 50px;
+    margin-left: 50px;
+}
+#kwotyPierwsze {
+	min-height: 168px;
+}
+#odswiez {
+	font-size: 18px;
+    margin-top: 50px;
+}
